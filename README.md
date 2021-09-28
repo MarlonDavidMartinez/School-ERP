@@ -1,6 +1,6 @@
-# School-ERP
+
 # Portada:
-<img width ="100%" src="https://icc.fcen.uba.ar/wp-content/uploads/2021/04/doctorado-ok.jpg">
+<img width ="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYqQH9rhfU3C97HHIrtAlf5PMrgJr_cmdOg&usqp=CAU">
 
 ## Información:
 |  Nombre: | Marlon David Martinez Cojulun  |
