@@ -16,21 +16,21 @@
 | Materia: | Laboratorio 1 |
 
 # Indice
- | 1 Portada |
+ | 1. Portada |
  
- | 2 Anteportada | 
+ | 2. Anteportada | 
  
- | 3 Indice |
+ | 3. Indice |
  
- | 4 Informacíon  |
+ | 4. Informacíon  |
  
- | 5 Login  |
+ | 5. Login  |
  
- | 6 Login_2  |
+ | 6. Login_2  |
  
- | 7 Dashboard |
+ | 7. Dashboard |
  
- | 8 My profile  | 
+ | 8. My profile  | 
  
  | 9 Objetivos  |
  
@@ -38,11 +38,11 @@
  
 
 ## Objetivos
-1.) Poner más atencion en clase y así mejor mi aprendizaje
+1. Poner más atencion en clase y así mejor mi aprendizaje
 
-2.) obtener mejores resultados en las tareas
+2. obtener mejores resultados en las tareas
 
-3.) entregar a tiempo las tareas 
+3. entregar a tiempo las tareas 
 
 ## Objetivo Futuro
 1.)llegar a tener un trabajo que sea de computación y estudiar con relación de computación.
