@@ -9,7 +9,7 @@
 |  Mi trabajo |https://marlondavidmartinez.github.io/Glosario/   |
 |  Portada: |  |
 | Login: | https://marlondavidmartinez.github.io/login-IV/ |
-| Login_2 | |
+| Login_2 | https://marlondavidmartinez.github.io/Login_2/ |
 | Dashboard | https://marlondavidmartinez.github.io/dashboard1/ |
 | My profile | https://marlondavidmartinez.github.io/Profile/ |
 | Profesor: | Josue Emmanuel Fuentes |
